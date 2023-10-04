@@ -10,3 +10,4 @@
 
 ### Connect with me:
 [![LinkedIn]](http://linkedin.com/in/phup-lamu-bhutia-62b892249-light-mode-only)
+[Mail](phuplamub@gmail.com)
