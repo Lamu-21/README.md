@@ -9,5 +9,5 @@
 🔧 Tools: I am proficient in using industry-standard tools and frameworks to streamline the development process and enhance efficiency. I believe in the power of collaboration and open source, and I'm always eager to learn and explore new technologies.
 
 ### Connect with me:
-[![LinkedIn]](http://linkedin.com/in/phup-lamu-bhutia-62b892249-light-mode-only)&nbsp
+[![LinkedIn]](http://linkedin.com/in/phup-lamu-bhutia-62b892249-light-mode-only) <br><br>
 [![Mail]](phuplamub@gmail.com)
